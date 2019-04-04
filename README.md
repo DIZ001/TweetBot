@@ -1,4 +1,4 @@
-# TweetBot
+# Futrama TweetBot
 Twitter bot practice
 
 This bot is designed to post Futurama quotes at certain intervals to Twitter.
